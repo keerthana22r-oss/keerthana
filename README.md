@@ -84,8 +84,7 @@
 
 <div align="center">
 
-> *"ADD YOUR CHOSEN QUOTE HERE"* — Author Name
-
+>*"Every expert was once a beginner."* — Helen Hayes
 </div>
 
 ---
