@@ -1,115 +1,111 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=1,2,3&height=220&section=header&text=Keerthana%20K%20R&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=✨%20Full%20Stack%20Developer%20✨&descAlignY=58&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0&height=2&section=header"/>
+
+```
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║         ✦  KEERTHANA K R  ✦  FULL STACK DEVELOPER  ✦     ║
+║                    India 🇮🇳  · she/her                   ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=A855F7&center=true&vCenter=true&width=600&height=45&lines=⚛️+React+%7C+Python+%7C+Django+%7C+HTML+%7C+CSS;🎨+Building+beautiful+full-stack+apps;🚀+Open+to+freelance+%26+entry-level+roles;☕+Coffee-powered+developer" />
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&lines=🌸+Hey+there!+I'm+Keerthana+👋;💻+Full+Stack+Developer+from+India+🇮🇳;⚛️+React+%7C+Python+%7C+Django+%7C+HTML+%7C+CSS;🚀+Open+to+Freelance+%26+Entry-level+Roles;☕+I+turn+coffee+into+code!" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-![](https://komarev.com/ghpvc/?username=keerthana22r-oss&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-&nbsp;
-![](https://img.shields.io/github/followers/keerthana22r-oss?style=for-the-badge&color=blueviolet&labelColor=000000&label=Followers)
+![Profile Views](https://komarev.com/ghpvc/?username=keerthana22r-oss&color=A855F7&style=flat-square&label=profile+views)
+&nbsp;·&nbsp;
+![Followers](https://img.shields.io/github/followers/keerthana22r-oss?style=flat-square&color=A855F7&label=followers)
 
 </div>
 
+<br/>
+
 ---
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+<img align="right" width="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
-## 🌸 About Me
+### `> whoami`
 
-```javascript
-const keerthana = {
-  name     : "Keerthana K R 💜",
-  role     : "Full Stack Developer",
-  location : "India 🇮🇳",
-  working  : "Full-stack projects with React & Python",
-  seeking  : "Freelance & entry-level opportunities 🚀",
-  learning : ["Advanced React ⚛️",
-              "REST API Design 🔌",
-              "System Design 🏗️"],
-  loves    : ["Coding ☕", "UI Design 🎨",
-              "Open Source 🌍"],
-  funFact  : "I debug with console.log 😅"
-};
+```python
+class Keerthana:
+    name     = "Keerthana K R"
+    role     = "Full Stack Developer"
+    location = "India 🇮🇳"
+    working  = "Full-stack projects (React + Python)"
+    seeking  = "Freelance & entry-level roles 🚀"
+    learning = ["Advanced React", "REST APIs",
+                "System Design"]
+    loves    = ["Coding ☕", "UI Design 🎨",
+                "Open Source 🌍"]
+    fun_fact = "I debug with console.log 😅"
 ```
 
 <br clear="right"/>
 
 ---
 
-## 💜 Tech Stack
+### `> tech_stack`
 
 <div align="center">
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+**Frontend**&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-121212?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-121212?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-121212?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-121212?style=flat-square&logo=react&logoColor=61DAFB)
 
-### ⚙️ Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+**Backend**&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/Python-121212?style=flat-square&logo=python&logoColor=3776AB)
+![Django](https://img.shields.io/badge/Django-121212?style=flat-square&logo=django&logoColor=092E20)
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+**Databases**&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-121212?style=flat-square&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-121212?style=flat-square&logo=postgresql&logoColor=336791)
+![SQLite](https://img.shields.io/badge/SQLite-121212?style=flat-square&logo=sqlite&logoColor=07405E)
 
-### 🛠️ Tools & Design
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+**Tools**&nbsp;&nbsp;
+![Figma](https://img.shields.io/badge/Figma-121212?style=flat-square&logo=figma&logoColor=F24E1E)
+![Canva](https://img.shields.io/badge/Canva-121212?style=flat-square&logo=canva&logoColor=00C4CC)
+![Postman](https://img.shields.io/badge/Postman-121212?style=flat-square&logo=postman&logoColor=FF6C37)
+![Git](https://img.shields.io/badge/Git-121212?style=flat-square&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/VSCode-121212?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+### `> github_stats`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=keerthana22r-oss&show_icons=true&theme=midnight-purple&border_color=7F3FBF&border_radius=15&include_all_commits=true&count_private=true" height="180em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthana22r-oss&layout=compact&langs_count=7&theme=midnight-purple&border_color=7F3FBF&border_radius=15" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=keerthana22r-oss&show_icons=true&theme=github_dark&border_color=A855F7&border_radius=8&include_all_commits=true&hide_title=false" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthana22r-oss&layout=compact&theme=github_dark&border_color=A855F7&border_radius=8" height="165"/>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=keerthana22r-oss&theme=midnight-purple&border=7F3FBF&border_radius=15)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=keerthana22r-oss&theme=github-dark-blue&border=A855F7&ring=A855F7&fire=EC4899&border_radius=8)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+### `> featured_projects`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/keerthana22r-oss/keerthana22r-oss/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Foodies Food Cart](https://github-readme-stats.vercel.app/api/pin/?username=keerthana22r-oss&repo=Foodies-food-cart_webpage&theme=midnight-purple&border_color=7F3FBF&border_radius=15)](https://github.com/keerthana22r-oss/Foodies-food-cart_webpage)
+[![Foodies](https://github-readme-stats.vercel.app/api/pin/?username=keerthana22r-oss&repo=Foodies-food-cart_webpage&theme=github_dark&border_color=A855F7&border_radius=8)](https://github.com/keerthana22r-oss/Foodies-food-cart_webpage)
 &nbsp;
-[![AI Interview Engine](https://github-readme-stats.vercel.app/api/pin/?username=keerthana22r-oss&repo=ai-interview-simulation--engine&theme=midnight-purple&border_color=7F3FBF&border_radius=15)](https://github.com/keerthana22r-oss/ai-interview-simulation--engine)
+[![AI Interview](https://github-readme-stats.vercel.app/api/pin/?username=keerthana22r-oss&repo=ai-interview-simulation--engine&theme=github_dark&border_color=A855F7&border_radius=8)](https://github.com/keerthana22r-oss/ai-interview-simulation--engine)
 
 </div>
 
 ---
 
-## 💬 Quote I Live By
+### `> quote`
 
 <div align="center">
 
@@ -119,25 +115,152 @@ const keerthana = {
 
 ---
 
-## 🌐 Let's Connect!
+### `> connect`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Keerthana-K-R)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keerthana22r-oss)
-
-<br/>
-
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="60">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/Keerthana-K-R)
+[![Instagram](https://img.shields.io/badge/Instagram-121212?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com)
+[![Gmail](https://img.shields.io/badge/Gmail-121212?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:your-email@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/keerthana22r-oss)
 
 </div>
 
 ---
 
 <div align="center">
+<sub>✦ thanks for visiting · drop a ⭐ if you like my work ✦</sub>
+</div>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=24&fontColor=fff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0&height=2&section=header"/>
 
+```
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║         ✦  KEERTHANA K R  ✦  FULL STACK DEVELOPER  ✦     ║
+║                    India 🇮🇳  · she/her                   ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=A855F7&center=true&vCenter=true&width=600&height=45&lines=⚛️+React+%7C+Python+%7C+Django+%7C+HTML+%7C+CSS;🎨+Building+beautiful+full-stack+apps;🚀+Open+to+freelance+%26+entry-level+roles;☕+Coffee-powered+developer" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=keerthana22r-oss&color=A855F7&style=flat-square&label=profile+views)
+&nbsp;·&nbsp;
+![Followers](https://img.shields.io/github/followers/keerthana22r-oss?style=flat-square&color=A855F7&label=followers)
+
+</div>
+
+<br/>
+
+---
+
+<img align="right" width="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+
+### `> whoami`
+
+```python
+class Keerthana:
+    name     = "Keerthana K R"
+    role     = "Full Stack Developer"
+    location = "India 🇮🇳"
+    working  = "Full-stack projects (React + Python)"
+    seeking  = "Freelance & entry-level roles 🚀"
+    learning = ["Advanced React", "REST APIs",
+                "System Design"]
+    loves    = ["Coding ☕", "UI Design 🎨",
+                "Open Source 🌍"]
+    fun_fact = "I debug with console.log 😅"
+```
+
+<br clear="right"/>
+
+---
+
+### `> tech_stack`
+
+<div align="center">
+
+**Frontend**&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-121212?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-121212?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-121212?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-121212?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Backend**&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/Python-121212?style=flat-square&logo=python&logoColor=3776AB)
+![Django](https://img.shields.io/badge/Django-121212?style=flat-square&logo=django&logoColor=092E20)
+
+**Databases**&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-121212?style=flat-square&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-121212?style=flat-square&logo=postgresql&logoColor=336791)
+![SQLite](https://img.shields.io/badge/SQLite-121212?style=flat-square&logo=sqlite&logoColor=07405E)
+
+**Tools**&nbsp;&nbsp;
+![Figma](https://img.shields.io/badge/Figma-121212?style=flat-square&logo=figma&logoColor=F24E1E)
+![Canva](https://img.shields.io/badge/Canva-121212?style=flat-square&logo=canva&logoColor=00C4CC)
+![Postman](https://img.shields.io/badge/Postman-121212?style=flat-square&logo=postman&logoColor=FF6C37)
+![Git](https://img.shields.io/badge/Git-121212?style=flat-square&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/VSCode-121212?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+
+</div>
+
+---
+
+### `> github_stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=keerthana22r-oss&show_icons=true&theme=github_dark&border_color=A855F7&border_radius=8&include_all_commits=true&hide_title=false" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthana22r-oss&layout=compact&theme=github_dark&border_color=A855F7&border_radius=8" height="165"/>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=keerthana22r-oss&theme=github-dark-blue&border=A855F7&ring=A855F7&fire=EC4899&border_radius=8)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+### `> featured_projects`
+
+<div align="center">
+
+[![Foodies](https://github-readme-stats.vercel.app/api/pin/?username=keerthana22r-oss&repo=Foodies-food-cart_webpage&theme=github_dark&border_color=A855F7&border_radius=8)](https://github.com/keerthana22r-oss/Foodies-food-cart_webpage)
+&nbsp;
+[![AI Interview](https://github-readme-stats.vercel.app/api/pin/?username=keerthana22r-oss&repo=ai-interview-simulation--engine&theme=github_dark&border_color=A855F7&border_radius=8)](https://github.com/keerthana22r-oss/ai-interview-simulation--engine)
+
+</div>
+
+---
+
+### `> quote`
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+### `> connect`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/Keerthana-K-R)
+[![Instagram](https://img.shields.io/badge/Instagram-121212?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com)
+[![Gmail](https://img.shields.io/badge/Gmail-121212?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:your-email@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/keerthana22r-oss)
+
+</div>
+
+---
+
+<div align="center">
+<sub>✦ thanks for visiting · drop a ⭐ if you like my work ✦</sub>
 </div>
