@@ -25,7 +25,7 @@
 - 💼 Looking for **freelance & entry-level opportunities**
 - 🤝 Open to collaborate on **beginner-friendly open source projects**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Python, Django**
-- ⚡ Fun fact: **I debug with console.log 😅**
+- 🎧 Fun fact: ** I can't code without music playing in the background**
 
 <br clear="right"/>
 
