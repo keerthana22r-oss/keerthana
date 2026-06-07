@@ -1,24 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=220&section=header&text=Keerthana%20K%20R&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=✨%20Full%20Stack%20Developer%20✨&descAlignY=58&descSize=20&stroke=C084FC&strokeWidth=2"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F472B6&center=true&vCenter=true&width=700&lines=🌸+Hey+there!+I'm+Keerthana+👋;💻+Full+Stack+Developer+from+India+🇮🇳;⚛️+React+%7C+Node.js+%7C+Python+%7C+Django;🚀+Open+to+Freelance+%26+Entry-level+Roles;☕+I+turn+coffee+into+code!" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=1,2,3&height=220&section=header&text=Keerthana%20K%20R&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=✨%20Full%20Stack%20Developer%20✨&descAlignY=58&descSize=20"/>
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=keerthana22r-oss&color=C084FC&style=for-the-badge&label=✨+PROFILE+VIEWS)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&lines=🌸+Hey+there!+I'm+Keerthana+👋;💻+Full+Stack+Developer+from+India+🇮🇳;⚛️+React+%7C+Python+%7C+Django+%7C+HTML+%7C+CSS;🚀+Open+to+Freelance+%26+Entry-level+Roles;☕+I+turn+coffee+into+code!" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+![](https://komarev.com/ghpvc/?username=keerthana22r-oss&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
-![](https://img.shields.io/github/followers/keerthana22r-oss?style=for-the-badge&color=F472B6&labelColor=1a1a2e&label=Followers)
+![](https://img.shields.io/github/followers/keerthana22r-oss?style=for-the-badge&color=blueviolet&labelColor=000000&label=Followers)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding Girl" width="320" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 ## 🌸 About Me
 
@@ -27,9 +27,10 @@ const keerthana = {
   name     : "Keerthana K R 💜",
   role     : "Full Stack Developer",
   location : "India 🇮🇳",
-  working  : "Full-stack projects w/ React & Node.js",
+  working  : "Full-stack projects with React & Python",
   seeking  : "Freelance & entry-level opportunities 🚀",
-  learning : ["Advanced React ⚛️", "REST APIs 🔌",
+  learning : ["Advanced React ⚛️",
+              "REST API Design 🔌",
               "System Design 🏗️"],
   loves    : ["Coding ☕", "UI Design 🎨",
               "Open Source 🌍"],
@@ -52,7 +53,6 @@ const keerthana = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
@@ -61,7 +61,7 @@ const keerthana = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🛠️ Tools
+### 🛠️ Tools & Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -76,24 +76,22 @@ const keerthana = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=keerthana22r-oss&show_icons=true&theme=tokyonight&border_color=C084FC&border_radius=15&include_all_commits=true&count_private=true" height="180em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthana22r-oss&layout=compact&langs_count=7&theme=tokyonight&border_color=C084FC&border_radius=15" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=keerthana22r-oss&show_icons=true&theme=midnight-purple&border_color=7F3FBF&border_radius=15&include_all_commits=true&count_private=true" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthana22r-oss&layout=compact&langs_count=7&theme=midnight-purple&border_color=7F3FBF&border_radius=15" height="180em"/>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=keerthana22r-oss&theme=tokyonight&border=C084FC&ring=C084FC&fire=F472B6&currStreakLabel=C084FC&border_radius=15)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=keerthana22r-oss&theme=midnight-purple&border=7F3FBF&border_radius=15)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🐍 My Contributions
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/keerthana22r-oss/keerthana22r-oss/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-> ⚙️ **To enable the snake animation**, create a GitHub Action in your profile repo. See setup steps below! ⬇️
 
 </div>
 
@@ -103,9 +101,9 @@ const keerthana = {
 
 <div align="center">
 
-[![Foodies Food Cart](https://github-readme-stats.vercel.app/api/pin/?username=keerthana22r-oss&repo=Foodies-food-cart_webpage&theme=tokyonight&border_color=F472B6&border_radius=15)](https://github.com/keerthana22r-oss/Foodies-food-cart_webpage)
+[![Foodies Food Cart](https://github-readme-stats.vercel.app/api/pin/?username=keerthana22r-oss&repo=Foodies-food-cart_webpage&theme=midnight-purple&border_color=7F3FBF&border_radius=15)](https://github.com/keerthana22r-oss/Foodies-food-cart_webpage)
 &nbsp;
-[![AI Interview Engine](https://github-readme-stats.vercel.app/api/pin/?username=keerthana22r-oss&repo=ai-interview-simulation--engine&theme=tokyonight&border_color=C084FC&border_radius=15)](https://github.com/keerthana22r-oss/ai-interview-simulation--engine)
+[![AI Interview Engine](https://github-readme-stats.vercel.app/api/pin/?username=keerthana22r-oss&repo=ai-interview-simulation--engine&theme=midnight-purple&border_color=7F3FBF&border_radius=15)](https://github.com/keerthana22r-oss/ai-interview-simulation--engine)
 
 </div>
 
@@ -115,19 +113,7 @@ const keerthana = {
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code+is+like+humor.+When+you+have+to+explain+it,+it%27s+bad.&author=Cory+House)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
-## 🎵 Vibing To
-
-<div align="center">
-
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=C084FC)](https://open.spotify.com)
-
-> 🎧 *Connect your Spotify at [novatorem.vercel.app](https://novatorem.vercel.app) to show what you're listening to live!*
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
@@ -144,9 +130,7 @@ const keerthana = {
 
 <br/>
 
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70">&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70">&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70">
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="60">
 
 </div>
 
@@ -154,6 +138,6 @@ const keerthana = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=24&fontColor=fff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=24&fontColor=fff&animation=twinkling"/>
 
 </div>
