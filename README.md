@@ -101,3 +101,8 @@
 
 </div>
 
+---
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:000000&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=20&fontColor=ffffff&animation=twinkling"/>
+</div>
