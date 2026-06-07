@@ -101,24 +101,3 @@
 
 </div>
 
----
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:000000&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=20&fontColor=ffffff&animation=twinkling"/>
-</div>
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:7c3aed&height=200&section=header&text=Keerthana%20K%20R&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descSize=18&descAlignY=58&descColor=d8b4fe"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=1000&color=7c3aed&center=true&vCenter=true&width=500&lines=⚛️+React+%7C+Python+%7C+Django;🎨+HTML+%7C+CSS+%7C+JavaScript;🚀+Open+to+Freelance+%26+Entry-level+Roles;☕+Coffee-powered+developer" alt="Typing SVG" />
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=keerthana22r-oss&color=7c3aed&style=flat-square&label=profile+views)
-&nbsp;·&nbsp;
-![Followers](https://img.shields.io/github/followers/keerthana22r-oss?style=flat-square&color=7c3aed&label=followers)
-
-</div>
-
